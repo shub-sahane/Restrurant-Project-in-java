@@ -1,3 +1,9 @@
-# JavaProject
+# RestrurantProject
 
-I have created some projects while learning java basics concets
+I have created a project on Restaurant where we can perfrom the operations of 
+ 1. customer Register
+ 2. customer Login
+ 3. menu
+ 4. cart
+ 5. orders
+ 6. bill
