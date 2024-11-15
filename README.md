@@ -1,6 +1,6 @@
 # RestrurantProject
 
-I have created a project on Restaurant where we can perfrom the operations of 
+I have created a project on Restaurant where we can perfrom the operations link
  1. customer Register
  2. customer Login
  3. menu
